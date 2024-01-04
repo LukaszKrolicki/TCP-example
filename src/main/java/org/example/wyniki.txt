@@ -1,0 +1,2 @@
+Student 2 wynik: 3
+Student 1 wynik: 1
